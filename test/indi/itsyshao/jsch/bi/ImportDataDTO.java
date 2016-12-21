@@ -1,4 +1,4 @@
-package indi.ityshao.jsch.bi;
+package indi.itsyshao.jsch.bi;
 
 import java.io.File;
 

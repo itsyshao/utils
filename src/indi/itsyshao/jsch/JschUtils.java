@@ -1,4 +1,4 @@
-package indi.ityshao.jsch;
+package indi.itsyshao.jsch;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -14,7 +14,7 @@ import com.jcraft.jsch.Session;
 import com.jcraft.jsch.UIKeyboardInteractive;
 import com.jcraft.jsch.UserInfo;
 
-import indi.ityshao.jsch.io.ShellOutputStream;
+import indi.itsyshao.jsch.io.ShellOutputStream;
 
 public class JschUtils {
 

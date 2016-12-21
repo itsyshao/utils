@@ -1,8 +1,9 @@
-package indi.ityshao.jsch;
+package indi.itsyshao.jsch;
 
 
-import indi.ityshao.jsch.JschUtils.DoShell;
-import indi.ityshao.jsch.bi.ImportDataMysqlShell;
+import indi.itsyshao.jsch.JschUtils;
+import indi.itsyshao.jsch.JschUtils.DoShell;
+import indi.itsyshao.jsch.bi.ImportDataMysqlShell;
 import junit.framework.TestCase;
 
 public class JschUtilsTest extends TestCase {

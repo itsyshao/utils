@@ -1,4 +1,4 @@
-package indi.ityshao.jsch.io;
+package indi.itsyshao.jsch.io;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -11,7 +11,7 @@ import java.util.Queue;
 
 import org.apache.commons.lang3.StringUtils;
 
-import indi.ityshao.jsch.JschUtils.DoShell;
+import indi.itsyshao.jsch.JschUtils.DoShell;
 
 /**
  * shell 输出流 

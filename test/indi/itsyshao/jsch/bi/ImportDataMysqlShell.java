@@ -1,8 +1,8 @@
-package indi.ityshao.jsch.bi;
+package indi.itsyshao.jsch.bi;
 
 import org.apache.commons.lang3.StringUtils;
 
-import indi.ityshao.jsch.JschUtils.DoShell;
+import indi.itsyshao.jsch.JschUtils.DoShell;
 
 /**
  * 实现动态导入MYSQL数据库
