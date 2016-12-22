@@ -70,7 +70,7 @@ public class ImportDataMysqlShell implements DoShell {
 		}
 		if (("set names utf8;").equals(cmd)) {
 			if (content.contains("Query OK,")) {
-				return "source " + importDataDTO.getImportServerPath() + "/" + importDataDTO.getImportFileFileName()
+				return "source " + importDataDTO.getImportServerPath() + "/" + importDataDTO.getImportFileName()
 						+ ";";
 			}
 		}

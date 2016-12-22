@@ -6,7 +6,7 @@ public class ImportDataDTO {
 
 	private File importFile;
 	private String importServerPath;
-	private String importFileFileName;
+	private String importFileName;
 	private String importFileContentType;
 	private String serverFilePath;
 	private String serverIp;
@@ -99,12 +99,12 @@ public class ImportDataDTO {
 		this.database = database;
 	}
 
-	public String getImportFileFileName() {
-		return importFileFileName;
+	public String getImportFileName() {
+		return importFileName;
 	}
 
-	public void setImportFileFileName(String importFileFileName) {
-		this.importFileFileName = importFileFileName;
+	public void setImportFileName(String importFileName) {
+		this.importFileName = importFileName;
 	}
 
 	public String getImportFileContentType() {

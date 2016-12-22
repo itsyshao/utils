@@ -28,4 +28,5 @@ public class XmlUtilsTest extends TestCase {
 		String _xml = XmlUtils.map2Xml(map, null);
 		System.out.println(_xml);
 	}
+	
 }

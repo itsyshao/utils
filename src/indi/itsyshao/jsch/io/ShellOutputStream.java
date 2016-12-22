@@ -16,7 +16,7 @@ import indi.itsyshao.jsch.JschUtils.DoShell;
 /**
  * shell 输出流 
  * 自动判断命令执行执行后续需要执行的命令
- * @author ibm
+ * @author itsyshao
  *
  */
 public class ShellOutputStream extends OutputStream {
